@@ -44,7 +44,7 @@ I am a dedicated **Flutter Developer** with **6 months of experience**, building
 
 ## 📫 **Connect with Me**  
 - **LinkedIn:** [Yash Dodani](https://www.linkedin.com/in/yash3786)  
-- **Portfolio:** [Yash Dodani](https://acesse.one/yashdodani)  
+- **Portfolio:** [Yash Dodani](https://sites.google.com/view/yashdodani/home)  
 
 ---
 
