@@ -49,5 +49,7 @@ I am a dedicated **Flutter Developer** with **6 months of experience**, building
 ---
 
 <div align="center" style="font-family: 'Poppins', sans-serif;">
-⭐️ **Let’s collaborate and create something amazing!** ⭐️  
+  <b>
+⭐️ Let’s collaborate and create something amazing! ⭐️   
+  </b>
 </div>
