@@ -52,4 +52,6 @@ I am a dedicated **Flutter Developer** with **6 months of experience**, building
   <b>
 ⭐️ Let’s collaborate and create something amazing! ⭐️   
   </b>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Yash-Dodani/Yash-Dodani/output/snake.svg" alt="Snake animation" />
 </div>
